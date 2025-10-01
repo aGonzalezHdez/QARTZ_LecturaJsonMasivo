@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibreriaClasesAPIExpertti",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation_Console", "Presentation_Console\Presentation_Console.csproj", "{FE61875F-455F-4E13-96C1-2625492D1730}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QARTZ_Service", "QARTZ_Service\QARTZ_Service.csproj", "{47E6C82A-6ECF-4FED-8339-0405719135B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,10 @@ Global
 		{FE61875F-455F-4E13-96C1-2625492D1730}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE61875F-455F-4E13-96C1-2625492D1730}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE61875F-455F-4E13-96C1-2625492D1730}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47E6C82A-6ECF-4FED-8339-0405719135B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47E6C82A-6ECF-4FED-8339-0405719135B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47E6C82A-6ECF-4FED-8339-0405719135B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47E6C82A-6ECF-4FED-8339-0405719135B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{3A2CA3CB-A723-443A-A0A5-28848B035D31} = {C7BFCB6B-1CF3-4009-973F-A98AB748B89E}
