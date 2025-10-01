@@ -1,0 +1,31 @@
+﻿namespace LibreriaClasesAPIExpertti.Entities.EntitiesS3
+{
+    public enum ent_RegionesAmazonS3
+    {
+        USEast1,
+        USEast2,
+        USWest1,
+        USWest2,
+        AFSouth1,
+        MESouth1,
+        CACentral1,
+        CNNorthWest1,
+        CNNorth1,
+        USGovCloudWest1,
+        USGovCloudEast1,
+        APSoutheast2,
+        APSoutheast1,
+        APSouth1,
+        APNortheast3,
+        SAEast1,
+        APNortheast1,
+        APNortheast2,
+        EUNorth1,
+        EUWest1,
+        EUWest3,
+        EUCentral1,
+        EUSouth1,
+        APEast1,
+        EUWest2
+    }
+}
